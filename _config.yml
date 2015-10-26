@@ -12,7 +12,7 @@ tagline:          'A Jekyll theme'
 description:       
 prominent sidebar: 
 url:              http://ianjwhite.github.io/blog
-baseurl:          https://github.com/ianjwhite/ianjwhite.github.io
+baseurl:          
 
 author:
   name:           'Ian White'
