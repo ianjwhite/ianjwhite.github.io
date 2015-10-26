@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Teaching Notes</title>
- <link href="http://ianjwhite.github.io/blog/atom.xml" rel="self"/>
- <link href="http://ianjwhite.github.io/blog/"/>
- <updated>2015-10-26T01:20:51-04:00</updated>
- <id>http://ianjwhite.github.io/blog</id>
+ <link href="http://ianjwhite.github.io/atom.xml" rel="self"/>
+ <link href="http://ianjwhite.github.io/"/>
+ <updated>2015-10-26T01:53:09-04:00</updated>
+ <id>http://ianjwhite.github.io</id>
  <author>
    <name>Ian White</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Welcome to my blog</title>
-   <link href="http://ianjwhite.github.io/blog/2015/10/25/Welcome%20to%20blog-hyde/"/>
+   <link href="http://ianjwhite.github.io/2015/10/25/Welcome%20to%20blog-hyde/"/>
    <updated>2015-10-25T00:00:00-04:00</updated>
-   <id>http://ianjwhite.github.io/blog/2015/10/25/Welcome to blog-hyde</id>
+   <id>http://ianjwhite.github.io/2015/10/25/Welcome to blog-hyde</id>
    <content type="html">&lt;p&gt;This is a test post about my experiences teaching &lt;a href=&quot;https://www.nottingham.ac.uk/education/prospective/teacher-training/school-direct/introduction.aspx&quot;&gt;UoN School Direct&lt;/a&gt; &lt;/p&gt;
 
 &lt;h3&gt;Title 1&lt;/h3&gt;
@@ -48,9 +48,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://ianjwhite.github.io/blog/2012/02/07/example-content/"/>
+   <link href="http://ianjwhite.github.io/2012/02/07/example-content/"/>
    <updated>2012-02-07T00:00:00-05:00</updated>
-   <id>http://ianjwhite.github.io/blog/2012/02/07/example-content</id>
+   <id>http://ianjwhite.github.io/2012/02/07/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -195,9 +195,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://ianjwhite.github.io/blog/2012/02/06/whats-jekyll/"/>
+   <link href="http://ianjwhite.github.io/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-05:00</updated>
-   <id>http://ianjwhite.github.io/blog/2012/02/06/whats-jekyll</id>
+   <id>http://ianjwhite.github.io/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
