@@ -3,6 +3,8 @@ layout: post
 title: Welcome to my blog
 ---
 
+![placeholder](http://placehold.it/800x400 "Large example image")
+
 This is a test post about my experiences teaching [UoN School Direct](https://www.nottingham.ac.uk/education/prospective/teacher-training/school-direct/introduction.aspx) 
 
 ### Title 1

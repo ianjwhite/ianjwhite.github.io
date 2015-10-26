@@ -4,7 +4,7 @@
  <title>Teaching Notes</title>
  <link href="http://ianjwhite.github.io/atom.xml" rel="self"/>
  <link href="http://ianjwhite.github.io/"/>
- <updated>2015-10-26T02:19:41-04:00</updated>
+ <updated>2015-10-26T02:24:35-04:00</updated>
  <id>http://ianjwhite.github.io</id>
  <author>
    <name>Ian White</name>
@@ -17,7 +17,9 @@
    <link href="http://ianjwhite.github.io/2015/10/25/Welcome%20to%20blog-hyde/"/>
    <updated>2015-10-25T00:00:00-04:00</updated>
    <id>http://ianjwhite.github.io/2015/10/25/Welcome to blog-hyde</id>
-   <content type="html">&lt;p&gt;This is a test post about my experiences teaching &lt;a href=&quot;https://www.nottingham.ac.uk/education/prospective/teacher-training/school-direct/introduction.aspx&quot;&gt;UoN School Direct&lt;/a&gt; &lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a test post about my experiences teaching &lt;a href=&quot;https://www.nottingham.ac.uk/education/prospective/teacher-training/school-direct/introduction.aspx&quot;&gt;UoN School Direct&lt;/a&gt; &lt;/p&gt;
 
 &lt;h3&gt;Title 1&lt;/h3&gt;
 
