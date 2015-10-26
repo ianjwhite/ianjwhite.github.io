@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Teaching Notes
+tagline:          'A Jekyll theme'
+description:       
+prominent sidebar: 
+url:              http://ianjwhite.github.io/blog/
+baseurl:          
+
+author:
+  name:           'Ian White'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
